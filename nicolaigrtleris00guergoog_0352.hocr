@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./nicolaigrtleris00guergoog_0352.png"; bbox 0 0 2617 4285; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 525 3266 2407 3536">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 525 3266 2407 3536">
+     <span class='ocr_line' id='line_1_1' title="bbox 806 3266 2389 3349; baseline 0.005 -16.382"><span class='ocrx_word' id='word_1_1' title='bbox 806 3271 943 3347; x_wconf 81' lang='grc'><strong>’..·3</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 972 3266 1313 3334; x_wconf 60' lang='lat' dir='ltr'><strong>Shm&#39;mum</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1344 3266 1538 3334; x_wconf 68' lang='lat' dir='ltr'>Patris</span> <span class='ocrx_word' id='word_1_4' title='bbox 1568 3266 1849 3336; x_wconf 68' lang='lat' dir='ltr'>artiorem</span> <span class='ocrx_word' id='word_1_5' title='bbox 1863 3266 2389 3349; x_wconf 57' lang='lat' dir='ltr'>testaffis‘m</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 525 3356 2407 3458; baseline -0.001 -28"><span class='ocrx_word' id='word_1_6' title='bbox 525 3385 541 3403; x_wconf 83' lang='lat'><strong>·</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 659 3357 978 3432; x_wconf 73' lang='grc' dir='ltr'>ἂίίῖἰιηο</span> <span class='ocrx_word' id='word_1_8' title='bbox 956 3381 1063 3436; x_wconf 70' lang='lat' dir='ltr'>zrae</span> <span class='ocrx_word' id='word_1_9' title='bbox 1101 3361 1331 3440; x_wconf 71' lang='lat' dir='ltr'><strong>divinae</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1350 3361 1440 3434; x_wconf 87' lang='lat' dir='ltr'>ob</span> <span class='ocrx_word' id='word_1_11' title='bbox 1473 3386 1716 3458; x_wconf 82' lang='lat' dir='ltr'>peccata</span> <span class='ocrx_word' id='word_1_12' title='bbox 1757 3364 1963 3436; x_wconf 80' lang='lat' dir='ltr'>nostra</span> <span class='ocrx_word' id='word_1_13' title='bbox 1986 3359 2191 3441; x_wconf 66' lang='lat' dir='ltr'><strong>sensu,</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 2222 3356 2407 3434; x_wconf 57' lang='lat' dir='ltr'>tole-</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 643 3479 2389 3536; baseline 0.004 -7"><span class='ocrx_word' id='word_1_15' title='bbox 643 3495 645 3499; x_wconf 93' lang='lat'>·</span> <span class='ocrx_word' id='word_1_16' title='bbox 2183 3479 2389 3536; x_wconf 72' lang='lat' dir='ltr'>tantu</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

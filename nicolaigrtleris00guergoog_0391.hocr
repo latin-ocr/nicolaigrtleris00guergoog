@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./nicolaigrtleris00guergoog_0391.png"; bbox 0 0 2617 4285; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 377 218 2191 387">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 377 218 2191 387">
+     <span class='ocr_line' id='line_1_1' title="bbox 377 218 2191 387; baseline -0.002 -41"><span class='ocrx_word' id='word_1_1' title='bbox 377 237 513 356; x_wconf 23' lang='lat' dir='ltr'><em>&#39;De</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 544 271 762 365; x_wconf 66' lang='lat' dir='ltr'><em>Adeffiae</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 779 273 966 365; x_wconf 76' lang='lat' dir='ltr'><em>officio</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 981 218 1511 365; x_wconf 39' lang='lat' dir='ltr'><em>propheticoLLib.</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 1537 295 1595 361; x_wconf 86' lang='lat'>5</span> <span class='ocrx_word' id='word_1_6' title='bbox 1610 293 1725 348; x_wconf 59' lang='grc' dir='ltr'><em>αι</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 1738 272 1814 348; x_wconf 57' lang='grc' dir='ltr'><em>οξ,</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 1858 221 1997 364; x_wconf 44' lang='grc' dir='ltr'><em>,ζῷ’</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 2079 348 2084 349; x_wconf 14' lang='lat' dir='ltr'><em>ff</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 2185 373 2191 387; x_wconf 20' lang='lat' dir='ltr'>x</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1833 3527 2167 3588">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1833 3527 2167 3588">
+     <span class='ocr_line' id='line_1_2' title="bbox 1833 3527 2167 3588; baseline -0.012 -3"><span class='ocrx_word' id='word_1_11' title='bbox 1833 3527 2057 3588; x_wconf 66' lang='lat' dir='ltr'><strong>omni·</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 2161 3577 2167 3581; x_wconf 88' lang='lat'>.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
